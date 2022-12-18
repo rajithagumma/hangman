@@ -1,0 +1,1 @@
+["word","name","lion","property","rights","eduction","compiler","interpreter","python","data","server","syntax","memory"]
